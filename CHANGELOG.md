@@ -1,6 +1,10 @@
 # Leader Key Changelog
 
-## [Initial Version] - {PR_MERGE_DATE}
+## 2026-02-12 - {PR_MERGE_DATE}
+
+- update extension icon
+
+## [Initial Version] - 2026-01-07
 
 ### Features
 
